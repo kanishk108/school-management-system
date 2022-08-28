@@ -81,7 +81,7 @@ class admin
 
    void admin::showdata_s()
 {
-      cout<<"\n\n\t\t\t\tStudent Id:"<<id_s << endl;
+      cout<<"\n\n\t\t\t\tStudent Id:"<<id_s << "\n";
       cout<<"\t\t\t\tStudent name:"<<name_s << endl;
 cout<<"\t\t\t\tStudent std:"<<std << endl;
 cout<<"\t\t\t\tStudent div:"<<div << endl;
